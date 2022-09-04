@@ -1,0 +1,7 @@
+flask
+flask_restful
+pandas
+numpy
+shap
+pickle-mixin
+gunicorn
