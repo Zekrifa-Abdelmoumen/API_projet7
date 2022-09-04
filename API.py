@@ -41,4 +41,4 @@ class Score(Resource):
 api.add_resource(Score, "/score/<int:id_curr>")
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=False)
