@@ -3,6 +3,6 @@ flask_restful
 pandas
 numpy
 shap
-pickle-mixin
+pickle-mixin 1.1.2
 gunicorn
 lightgbm
