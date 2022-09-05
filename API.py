@@ -2,8 +2,8 @@ from flask import Flask
 from flask_restful import Api, Resource
 import pandas as pd
 import pickle as pc
-import numpy as np
-import shap
+#import numpy as np
+#import shap
 
 app = Flask(__name__)
 api = Api(app)
