@@ -1,8 +1,7 @@
 flask
 flask_restful
-pandas
-numpy
-shap
-pickle-mixin
+pandas==1.4.2
+numpy==1.22.1
+scikit-learn==1.0.2
 gunicorn
-lightgbm
+lightgbm==3.3.2
